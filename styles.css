@@ -1,0 +1,186 @@
+.box {
+    background-color: rgb(88, 137, 121);
+    width: 100%;
+}
+.block {
+    max-width: 800px;
+    max-height: 500px;
+    margin: auto;
+}
+.container {
+
+    width: 100%;
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+a {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.text {
+    
+    color: rgb(239, 242, 244);
+    box-sizing: border-box;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 30% 0;
+}
+h1 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+.block2 {
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.text2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+h2 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 10px;
+}
+p {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    padding-top: 10px;
+}
+img {
+    max-width: 600px;
+    max-height: 400px;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 1%;
+    margin-bottom: 50px;
+}
+.block3 {
+    background-color: rgb(245, 243, 240);
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.text3 {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    align-items: center;
+}
+   
+
+h3 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.buttons {
+    margin-bottom: 50px;
+   
+}
+.test {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(47, 87, 73);
+    border-radius: 20%;
+    text-align: center;
+    color: azure;
+    white-space: nowrap;
+}
+.block4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    height: 300px;
+}   
+ul {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(30px, auto);
+
+}
+.block5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+
+
+    
+.block6 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    background-color:  rgb(88, 137, 121);;
+}
+.text6 {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h3 {
+    
+
+}
+
+.logo {
+    display: inline-block;
+    margin-inline-end: auto;
+   
+}
+.icons {
+    
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+.icon {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.vk-logo {
+    font-size: 20px;
+}
